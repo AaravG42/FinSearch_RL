@@ -14,5 +14,5 @@ The following plot shows the episode rewards during training:
 
 ## Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](RL_Inv_Pend_demo.mkv)
+<video src="./RL_Inv_Pend_demo.mp4" controls width="500"></video>
 

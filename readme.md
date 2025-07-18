@@ -13,5 +13,5 @@ The following plot shows the episode rewards during training:
 ![Training Rewards](dqn_training_rewards_inv_pend.png)
 
 ## Demo Video
-[Watch the demo]((https://github.com/AaravG42/FinSearch_RL/blob/main/RL_Inv_Pend_demo.mp4)
+[Watch the demo](https://github.com/AaravG42/FinSearch_RL/blob/main/RL_Inv_Pend_demo.mp4)
 

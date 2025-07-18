@@ -14,5 +14,5 @@ The following plot shows the episode rewards during training:
 
 ## Demo Video
 
-<video src="https://github.com/AaravG42/FinSearch_RL/blob/main/RL_Inv_Pend_demo.mp4" controls width="500"></video>
+https://github.com/AaravG42/FinSearch_RL/blob/main/RL_Inv_Pend_demo.mp4
 

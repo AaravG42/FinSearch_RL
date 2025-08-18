@@ -1,0 +1,5 @@
+TRAINING SUMMARY
+==================================================
+PPO: 936.9 seconds
+A2C: 701.6 seconds
+DDPG: 844.4 seconds
